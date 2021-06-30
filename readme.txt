@@ -1,5 +1,5 @@
 # Sins_society
-A edit version of esx_society
+A edit version of esx_society with cool options for example clothes and weapons
 -----------------------------------add essentialmode functions in server
 ESX.GetJob = function(job)
 	if ESX.DoesJobExist(job, 1) then
